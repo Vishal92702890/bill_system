@@ -1,0 +1,4 @@
+
+<%
+	out.print("Hello Ajax");
+%>
